@@ -1,0 +1,2 @@
+llama-cloud>=2.1
+pydantic>=2.0

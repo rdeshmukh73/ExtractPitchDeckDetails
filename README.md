@@ -6,9 +6,9 @@ It is tuned for decks that mix text and images (including LLM‑generated visual
 
 ---
 ## Sign up for LlamaParse API Key
-Visit this Website to get the LlamaParse API Key: [LlamaCloud API](https://developers.llamaindex.ai/llamaparse/general/api_key/)
-Note that they offer 10000 Credits free by default. 
-For a Pitch Deck that we used in PESU CIE Ignite - It consumes about 300 Credits to parse and extract information from each PDF.
+- Visit this Website to get the LlamaParse API Key: [LlamaCloud API](https://developers.llamaindex.ai/llamaparse/general/api_key/)
+- Note that they offer 10000 Credits free by default. 
+- For a Pitch Deck that we used in PESU CIE Ignite - It consumes about 300 Credits to parse and extract information from each PDF.
 
 ---
 
